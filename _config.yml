@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "The Personal Academic Homepage"
-description              : "The Personal Academic Homepage"
+title                    : "Stay Curious and Keep Moving"
+description              : "Stay Curious and Keep Moving"
 repository               : "brysonwx/brysonwx.github.io"
 #google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ repository               : "brysonwx/brysonwx.github.io"
 # Site Author
 author:
   name             : "Weixin Bu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/photo27.png"
   bio              : "REVERSIBLE INC"
   location         : "Remote, China"
   employer         :

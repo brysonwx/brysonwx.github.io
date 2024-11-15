@@ -16,10 +16,10 @@ redirect_from:
 {% include_relative includes/pub.md %}
 
 # 📖 Educations
-- *2021.09 - 2024.06*, Msc, Jilin University, Changchun.
-- *2014.09 - 2018.06*, Bsc, Nanjing University of Information Science & Technology, Nanjing.
+- *2021.09 - 2024.06*, Computer Science, Msc, Jilin University, Changchun.
+- *2014.09 - 2018.06*, Network Engineering, Bsc, Nanjing University of Information Science & Technology, Nanjing.
 
-# 💻 Work & Internships
+# 💻 Work and Internships
 - *2024.11 - now*, Search and Recommendation Engineer in [REVERSIBLE INC](https://www.reversible.com), Remote.
 - *2024.06 - 2024.09*, AI Researcher in [NGAI](https://www.ngai.ac.cn), Nanjing.
 - *2022.11 - 2023.03*, Software Intern in [Red Hat](https://www.redhat.com/en), Remote.
