@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/ConGCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Improving Augmentation Consistency for Graph Contrastive Learning](https://www.sciencedirect.com/science/article/pii/S0031320323008798) \\
-[Weixin Bu]*(https://brysonwx.github.io), [Xiaofeng Cao]*(https://xiaofengcaoml.github.io), [Yizhen Zheng](https://shiruipan.github.io/authors/yizhen-zheng), [Shirui Pan](https://shiruipan.github.io) \\
+[Weixin Bu`*`](https://brysonwx.github.io), [Xiaofeng Cao`*`](https://xiaofengcaoml.github.io), [Yizhen Zheng](https://shiruipan.github.io/authors/yizhen-zheng), [Shirui Pan](https://shiruipan.github.io) \\
 [[`Paper`](https://www.sciencedirect.com/science/article/pii/S0031320323008798)] | [[`Code`](https://github.com/brysonwx/ConGCL)]
 
 - A novel augmentation consistency perspective in GCL
