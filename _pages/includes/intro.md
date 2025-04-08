@@ -1,4 +1,4 @@
-Hello, this is Weixin Bu (Also, Bryson), an ordinary but curious person. 
+Hello, this is Weixin Bu (Also, Bryson), an ordinary but curious person.
 
 I work at [REVERSIBLE INC](https://www.reversible.com) as a [Search and Recommendation Engineer]. I am now working on the pipeline construction, performance optimization and multimodal implementation of the search and recommendation systems.
 
