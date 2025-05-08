@@ -16,7 +16,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/GRANT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Nonparametric Teaching for Graph Property Learners](https://brysonwx.github.io) \\
-[Chen Zhang*](https://chen2hang.github.io), [Weixin Bu*](https://brysonwx.github.io), [Zeyi Ren](https://zeyi0827.github.io/zeyi.github.io), [Zhengwu Liu](https://www.eee.hku.hk/people/zhengwu-liu), [Yik-Chung Wu](https://www.eee.hku.hk/~ycwu), [Ngai Wong](https://www.eee.hku.hk/~nwong) \\
+[Chen Zhang`*`](https://chen2hang.github.io), [Weixin Bu`*`](https://brysonwx.github.io), [Zeyi Ren](https://zeyi0827.github.io/zeyi.github.io), [Zhengwu Liu](https://www.eee.hku.hk/people/zhengwu-liu), [Yik-Chung Wu](https://www.eee.hku.hk/~ycwu), [Ngai Wong](https://www.eee.hku.hk/~nwong) \\
 [[`Paper`](https://brysonwx.github.io)] | [[`Code`](https://github.com/brysonwx/GraNT)]
 
 - A novel paradigm that interprets graph property learning within the theoretical context of nonparametric teaching (NT)
