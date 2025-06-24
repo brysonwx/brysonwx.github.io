@@ -25,7 +25,7 @@
 </div>
 </div>
 
-#### Self/Semi-supervised Learning
+#### Self / Semi-supervised Learning
 
 #### Multimodal Learning
 
