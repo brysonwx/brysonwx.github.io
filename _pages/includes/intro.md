@@ -6,6 +6,6 @@ I persistently explore the things that spark my interest, while striving to lear
 
 - I graduated from [School of Computer and Software](https://scs.nuist.edu.cn/main.htm), Nanjing University of Information Science and Technology (南京信息工程大学计算机与软件学院) with a bachelor's degree; and from [School of Artificial Intelligence](https://sai.jlu.edu.cn), Jilin University (吉林大学人工智能学院) with a master's degree.
 
-- I am passionate about researching on Artificial Intelligence (Graph Neural Networks[Homogeneous/Heterogeneou, Static/Dynamic Graphs], Self/Semi-supervised Learning, Multimodal Learning, and Large Foundation Models, etc) and Software Development (AI for Software Development, etc).
+- I am passionate about researching on Artificial Intelligence (Graph Neural Networks[Homogeneous/Heterogeneous, Static/Dynamic Graphs], Self/Semi-supervised Learning, Multimodal Learning, and Large Foundation Models, etc) and Software Development (AI for Software Development, etc).
 
 Please feel free to contact me via Email: brysonwx@163.com / bwxhhjy@gmail.com.
