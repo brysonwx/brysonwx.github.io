@@ -21,7 +21,7 @@ redirect_from:
 
 # 💻 Work and Internships
 - *2024.11 - now*, Search and Recommendation Engineer in [REVERSIBLE INC](https://www.reversible.com), Remote.
-- *2024.06 - 2024.09*, AI Researcher in [NGAI](https://www.ngai.ac.cn) of [CAICT](http://www.caict.ac.cn), Nanjing.
+- *2024.06 - 2024.09*, AI Researcher in [CAICT](http://www.caict.ac.cn), Nanjing.
 - *2022.07 - 2022.10*, Algorithm Software Intern in [Shanghai AI Lab](https://www.shlab.org.cn), Remote.
 - *2021.01 - 2021.06*, Software Engineer(Part-time) in [Beyond APP](https://www.borderxlab.com), Shanghai.
 - *2018.07 - 2020.05*, Software Engineer(Full-time) in [Beyond APP](https://www.borderxlab.com), Shanghai.
