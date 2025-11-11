@@ -29,8 +29,8 @@
 
 #### Multimodal Learning
 
-#### Large Foundation Models
+#### Time Series Modeling
 
-#### AI for Software Development
+#### Large Foundation Models
 
 #### Others
