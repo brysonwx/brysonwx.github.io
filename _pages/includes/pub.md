@@ -29,9 +29,7 @@
 
 #### Multimodal Learning
 
-#### Time Series Modeling
-One paper in submission.
-
 #### Large Foundation Models
+One gcn-based Transformer paper in submission.
 
 #### Others
