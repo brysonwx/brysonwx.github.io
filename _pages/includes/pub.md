@@ -1,18 +1,6 @@
 # 📝 Publications 
 
 #### Graph Neural Networks
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/ConGCL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Improving Augmentation Consistency for Graph Contrastive Learning](https://www.sciencedirect.com/science/article/pii/S0031320323008798) \\
-[Weixin Bu`*`](https://brysonwx.github.io), [Xiaofeng Cao`*`](https://xiaofengcaoml.github.io), [Yizhen Zheng](https://shiruipan.github.io/authors/yizhen-zheng), [Shirui Pan](https://shiruipan.github.io) \\
-[[`Paper`](https://www.sciencedirect.com/science/article/pii/S0031320323008798)] | [[`Code`](https://github.com/brysonwx/ConGCL)]
-
-- A novel augmentation consistency perspective in GCL
-- Integrate semantic and structural properties to better capture node consistency
-- An effective consistency improvement loss to maintain augmentation consistency among positive node pairs
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Spotlight</div><img src='images/GRANT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Nonparametric Teaching for Graph Property Learners](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Paper.pdf) \\
@@ -22,6 +10,18 @@
 - A novel paradigm that interprets graph property learning within the theoretical context of nonparametric teaching (NT)
 - Reveal the consistency between the evolution of GCN driven by parameter updates and that under functional gradient descent in NT
 - Demonstrate the effectiveness of GraNT through extensive experiments (graph/node-level regression / classification) in graph property learning
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/ConGCL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Improving Augmentation Consistency for Graph Contrastive Learning](https://www.sciencedirect.com/science/article/pii/S0031320323008798) \\
+[Weixin Bu`*`](https://brysonwx.github.io), [Xiaofeng Cao`*`](https://xiaofengcaoml.github.io), [Yizhen Zheng](https://shiruipan.github.io/authors/yizhen-zheng), [Shirui Pan](https://shiruipan.github.io) \\
+[[`Paper`](https://www.sciencedirect.com/science/article/pii/S0031320323008798)] | [[`Code`](https://github.com/brysonwx/ConGCL)]
+
+- A novel augmentation consistency perspective in GCL
+- Integrate semantic and structural properties to better capture node consistency
+- An effective consistency improvement loss to maintain augmentation consistency among positive node pairs
 </div>
 </div>
 
