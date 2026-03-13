@@ -20,7 +20,7 @@ redirect_from:
 - *2014.09 - 2018.06*, Network Engineering, Bsc, Nanjing University of Information Science and Technology, Nanjing.
 
 # 💻 Work and Internships
-- *2025.12 - Now*, Engineer at [Suzhou AI Lab](http://sc.ruc.edu.cn/department/ssai/index.htm) of [RUC](https://www.ruc.edu.cn), Suzhou.
+- *2025.12 - Now*, Engineer at [Suzhou AI Lab](http://sc.ruc.edu.cn/department/ssai/index.htm) of [RUC](https://www.ruc.edu.cn), Suzhou, (Led by [Xiubin Yu](http://sc.ruc.edu.cn/department/ssai/ssai_users/yxb/index.htm)).
 - *2024.11 - 2025.11*, Search and Recommendation Engineer at [Reversible Inc](https://www.reversible.com), Remote, (Led by [Xianchen Meng](https://www.linkedin.com/in/xianchen-meng-a7a141115)).
 - *2024.06 - 2024.09*, AI Researcher at [CAICT](http://www.caict.ac.cn), NGAI, Nanjing, (Led by [Xiaofei Dong](https://scholar.google.com/citations?user=Y81BhJ4AAAAJ&hl=en)).
 - *2022.07 - 2022.10*, Algorithm Software Intern at [Shanghai AI Lab](https://www.shlab.org.cn), Remote, (Led by [Bin Wang](https://wangbindl.github.io)).

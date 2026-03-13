@@ -25,11 +25,9 @@
 </div>
 </div>
 
-#### Self / Semi-supervised Learning
+#### Computer Vision
 
 #### Multimodal Learning
 
 #### Large Foundation Models
 One gcn-based Transformer paper in submission.
-
-#### Others
